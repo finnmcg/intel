@@ -2,7 +2,7 @@
 <html data-init="no-js">
 <head>
 <meta charset="UTF-8" />
-<title>Harry de Vries</title>
+<title>Finn McGrath</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <!--
 
@@ -190,39 +190,18 @@ $(document).on(":passagerender", function (ev) {  /* Triggers on passage render 
 });
 </script><tw-passagedata pid="1" name="Splash" tags="hideui Splash" position="131,32" size="100,100">@@.justify;
 &lt;img src=&quot;web pics/Untitled-1.png&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
-&lt;span class=&quot;hiddenlink&quot;&gt;[[Harry de Vries]]&lt;/span&gt;
+&lt;span class=&quot;hiddenlink&quot;&gt;[[Introduction]]&lt;/span&gt;
 @@</tw-passagedata><tw-passagedata pid="2" name="PassageHeader" tags="" position="251,33" size="100,100">@@.center;
 &lt;&lt;if passage() isnot &quot;Splash&quot;&gt;&gt;\
-[[Harry de Vries]] [[works]] [[CV/Contact]] 
+[[Introduction]] [[Artworks]] [[References]] 
 \&lt;&lt;/if&gt;&gt;
 @@
-</tw-passagedata><tw-passagedata pid="3" name="CV/Contact" tags="" position="299,201" size="100,100">@@.justify;
-Harry de Vries
-//born 1999, Eora/Sydney//
-
-[[instagram|https://www.instagram.com/hjsdv]]
-hjsdvries [at] gmail [dot] com
-
-&#39;&#39;Education&#39;&#39;
-//2022//   Bachelor of Fine Art, National Art School
-&#39;&#39;Press&#39;&#39; 
-//2022//   //Forthcoming// Fluid Thinking Magazine
-
-&#39;&#39;Group Shows&#39;&#39;
-//2021//   &quot;X&quot;, curated by Taylor Steele, M2 Contemporary, Surry Hills, Sydney
-//2020//   &quot;Soup Opera&quot;, curated by Jacqueline Davis, Pink Place Collective, Glebe, Sydney
-//2020//   &quot;Glebe Rats&quot;, Pink Place Collective, Glebe, Sydney
-//2019//   &quot;33 Photorealistic Portraits of Zoeey Deschanel&quot;, Goodspace, Sydney
-//2019//   &quot;Fresh Meat&quot;, Rayner Hoff Project Space, National Art School, Sydney
-
-&#39;&#39;prizes&#39;&#39;
-//2020//   Finalist, Jocelyn Maughan sketchbook prize 
-@@</tw-passagedata><tw-passagedata pid="4" name="Harry de Vries" tags="" position="169,201" size="100,100">@@.justify;
-&#39;&#39;Harry de Vries&#39;&#39; //(b. 1999)// is a multimedia artist living and working on unceded Gadigal land. He holds a BFA from the National Art School. Through a spectrum of digital and material practices, his work investigates how visual art participates in the utopian impulse and the making of the future.
-
-Harry has participated in shows at numerous galleries throughout Sydney, including M2 Gallery, Anti-Gallery, and the Rayner Hoff Project space. He was a finalist in the 2020 Jocelyn Maughan Sketchbook prize finalist and is collected in numerous private collections. 
-
-His work is currently exhibited as part of the 2022 National Art School Grad Show and will be featured in the inaugural issue of the forthcoming Fluid Thinking magazine. </tw-passagedata><tw-passagedata pid="5" name="works" tags="" position="540,153" size="100,100">@@.center;
+</tw-passagedata><tw-passagedata pid="3" name="Referencest" tags="" position="299,201" size="100,100">@@.justify;
+&#39;&#39;Bibliography&#39;&#39;
+N. Gordon Bowe and E Cumming, The Arts and Crafts Movement in Dublin and Edinburgh
+@@
+@@</tw-passagedata><tw-passagedata pid="4" name="Introduction" tags="" position="169,201" size="100,100">@@.justify;
+&#39;&#39;Introduction&#39;&#39; The Arts and Craft movement began in England during the 1880-90’s inspired by the writings of john ruskin and the practical example of william morris. </tw-passagedata><tw-passagedata pid="5" name="works" tags="" position="540,153" size="100,100">@@.center;
 &lt;&lt;link &quot;2022&quot;&gt;&gt;
 	&lt;&lt;toggleclass &quot;#2022&quot; &quot;hide&quot;&gt;&gt;
 &lt;&lt;/link&gt;&gt;
